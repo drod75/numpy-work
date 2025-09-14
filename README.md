@@ -3,7 +3,7 @@
 <h3 align="center">Numpy Work</h3>
 
   <p align="center">
-    A repository to document my journey learning NumPy and implementing machine learning algorithms from scratch.
+    A repository to document my journey learning NumPy and Linear Alegbra, Machine Learning implementation.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository tracks my progress in learning NumPy. My goal is to replicate machine learning algorithms using NumPy, starting with Linear Regression.
+This repository tracks my progress in learning NumPy. My goal is to replicate Linear Regression, and later Machine Learning using NumPy.
 
 (back to top)
 
@@ -62,10 +62,6 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   https://www.python.org/downloads/
   ```
-* numpy
-  ```sh
-  pip install numpy
-  ```
 
 ### Installation
 
@@ -73,7 +69,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/your_username/numpy-work.git
    ```
-2. Install NPM packages
+2. Install the python packages
    ```sh
    pip install numpy
    ```
@@ -92,6 +88,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
+- [x] Learn basic Numpy
+- [ ] Implement Basic Linear Algebra
+- [ ] Implement Advanced Linear Algebra
 - [ ] Implement Linear Regression
 - [ ] Add more machine learning algorithms
 
